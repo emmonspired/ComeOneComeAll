@@ -1,5 +1,5 @@
 # ComeOneComeAll
-[`#HowToBUIDL` (2/n) :: Your First Contract Come One Come All!](https://medium.com/coinmonks/howtobuidl-series-1-of-n-bf51e248243d)
+[`#HowToBUIDL` (2/n) :: Your First Contract Come One Come All!](https://medium.com/coinmonks/howtobuidl-2ofn-come-one-come-all-8a3e0ee706b1)
 By the end of this post, you’ll write your very first SmartContract called the GreatestShow.
 
 Come one! Come all! Come join the great Digital Railroad! There is no barrier to entry, as long as you participate within the framework of rules known as decentralized consensus. This means you’ll work for it. It won’t come easy but at least you’ve taken the 1st step. Come build the digital railroads of tomorrow! Three meals a day! Roof over your head! Fair and ample wages! Come, make your fortune! Not everyone will be up for the challenge. I guess I’ll leave that up to you. Opportunity awaits you.
