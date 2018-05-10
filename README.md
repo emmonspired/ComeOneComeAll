@@ -27,3 +27,8 @@ Contracts are written in [Solidity][solidity] and tested using [Truffle][truffle
 $ npm install
 $ truffle compile
 ```
+[ethereum]: https://www.ethereum.org/
+[openzeppelin]: https://openzeppelin.org/
+[solidity]: https://solidity.readthedocs.io/
+[truffle]: http://truffleframework.com/
+[testrpc]: https://github.com/ethereumjs/testrpc
